@@ -6,9 +6,9 @@ Este repositorio contiene la **documentación del proyecto CravBot**, una soluci
 Proyecto desarrollado como **pasantía** para apoyar el proceso de gestión de citas y atención al usuario.
 
 ## ¿Qué incluye este repositorio?
-- 📄 Documentación completa del proyecto (PDF)
-- 🗄️ Esquema/estructura de base de datos (PDF)
-- 🧠 Descripción de arquitectura, requerimientos y resultados del proyecto
+
+- 📄 **Documentación completa del proyecto (PDF):** [CravBot-Documentacion.pdf](./CravBot-Documentacion.pdf)
+- 📌 **Resumen (arquitectura y métricas) (PDF):** [CravBot-Resumen-Arquitectura-y-Metricas.pdf](./CravBot-Resumen-Arquitectura-y-Metricas.pdf)
 
 > Nota: Este repositorio es principalmente **documental**. No incluye credenciales, llaves, ni información sensible.
 
